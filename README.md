@@ -17,6 +17,7 @@ warrant a full blog post.
 ## Chrome
 
 * [Korean Font Support](chrome/korean-font-support.md)
+* [Color Emoji Support](chrome/color-emoji-support.md)
 
 ## About
 
